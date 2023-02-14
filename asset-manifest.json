@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://educkgu.github.io/csb-cknzls/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://educkgu.github.io/csb-cknzls/static/js/main.9735cfa6.chunk.js",
+    "main.js.map": "https://educkgu.github.io/csb-cknzls/static/js/main.9735cfa6.chunk.js.map",
+    "runtime-main.js": "https://educkgu.github.io/csb-cknzls/static/js/runtime-main.d4e89533.js",
+    "runtime-main.js.map": "https://educkgu.github.io/csb-cknzls/static/js/runtime-main.d4e89533.js.map",
+    "static/js/2.f9d5f5df.chunk.js": "https://educkgu.github.io/csb-cknzls/static/js/2.f9d5f5df.chunk.js",
+    "static/js/2.f9d5f5df.chunk.js.map": "https://educkgu.github.io/csb-cknzls/static/js/2.f9d5f5df.chunk.js.map",
+    "index.html": "https://educkgu.github.io/csb-cknzls/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://educkgu.github.io/csb-cknzls/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f9d5f5df.chunk.js.LICENSE.txt": "https://educkgu.github.io/csb-cknzls/static/js/2.f9d5f5df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4e89533.js",
+    "static/js/2.f9d5f5df.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.9735cfa6.chunk.js"
+  ]
+}
